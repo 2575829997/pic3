@@ -1222,15 +1222,6 @@ li.ant-select-tree-treenode-disabled>.ant-select-tree-node-content-wrapper,li.an
 .new-page[data-v-2464446c]{background-color:#fff}
 .btn[data-v-2464446c]:hover{color:#fff}
 .cus{color:rgba(0,0,0,.65)}
-.beauty-scroll[data-v-4bc881b0]{scrollbar-color:#13c2c2 #b5f5ec}
-.beauty-scroll[data-v-4bc881b0]::-webkit-scrollbar-thumb{background:#13c2c2}
-.beauty-scroll[data-v-4bc881b0]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
-.disabled[data-v-4bc881b0]{color:rgba(0,0,0,.25)}
-#nprogress .bar[data-v-4bc881b0]{background:#13c2c2}
-#nprogress .peg[data-v-4bc881b0]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
-#nprogress .spinner-icon[data-v-4bc881b0]{border-top-color:#13c2c2;border-left-color:#13c2c2}
-.new-page[data-v-4bc881b0]{background-color:#fff}
-.btn[data-v-4bc881b0]:hover{color:#fff}
 .beauty-scroll[data-v-8a8bd64a]{scrollbar-color:#13c2c2 #b5f5ec}
 .beauty-scroll[data-v-8a8bd64a]::-webkit-scrollbar-thumb{background:#13c2c2}
 .beauty-scroll[data-v-8a8bd64a]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
@@ -1258,6 +1249,16 @@ li.ant-select-tree-treenode-disabled>.ant-select-tree-node-content-wrapper,li.an
 #nprogress .spinner-icon[data-v-54759e5c]{border-top-color:#13c2c2;border-left-color:#13c2c2}
 .new-page[data-v-54759e5c]{background-color:#fff}
 .chart[data-v-54759e5c]{background-color:#fff}
+.beauty-scroll[data-v-e2aa8bf2]{scrollbar-color:#13c2c2 #b5f5ec}
+.beauty-scroll[data-v-e2aa8bf2]::-webkit-scrollbar-thumb{background:#13c2c2}
+.beauty-scroll[data-v-e2aa8bf2]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
+.disabled[data-v-e2aa8bf2]{color:rgba(0,0,0,.25)}
+#nprogress .bar[data-v-e2aa8bf2]{background:#13c2c2}
+#nprogress .peg[data-v-e2aa8bf2]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
+#nprogress .spinner-icon[data-v-e2aa8bf2]{border-top-color:#13c2c2;border-left-color:#13c2c2}
+.new-page[data-v-e2aa8bf2]{background-color:#fff}
+.btn[data-v-e2aa8bf2]{color:#fff}
+.btn[data-v-e2aa8bf2]:hover{color:#fff}
 .beauty-scroll[data-v-1b02cfc3]{scrollbar-color:#13c2c2 #b5f5ec}
 .beauty-scroll[data-v-1b02cfc3]::-webkit-scrollbar-thumb{background:#13c2c2}
 .beauty-scroll[data-v-1b02cfc3]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
