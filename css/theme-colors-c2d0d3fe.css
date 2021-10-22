@@ -1184,6 +1184,14 @@ li.ant-select-tree-treenode-disabled>.ant-select-tree-node-content-wrapper,li.an
 #nprogress .peg[data-v-38c51c30]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
 #nprogress .spinner-icon[data-v-38c51c30]{border-top-color:#13c2c2;border-left-color:#13c2c2}
 .new-page[data-v-38c51c30]{background-color:#fff}
+.beauty-scroll[data-v-73ba9515]{scrollbar-color:#13c2c2 #b5f5ec}
+.beauty-scroll[data-v-73ba9515]::-webkit-scrollbar-thumb{background:#13c2c2}
+.beauty-scroll[data-v-73ba9515]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
+.disabled[data-v-73ba9515]{color:rgba(0,0,0,.25)}
+#nprogress .bar[data-v-73ba9515]{background:#13c2c2}
+#nprogress .peg[data-v-73ba9515]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
+#nprogress .spinner-icon[data-v-73ba9515]{border-top-color:#13c2c2;border-left-color:#13c2c2}
+.new-page[data-v-73ba9515]{background-color:#fff}
 .beauty-scroll[data-v-1c265f57]{scrollbar-color:#13c2c2 #b5f5ec}
 .beauty-scroll[data-v-1c265f57]::-webkit-scrollbar-thumb{background:#13c2c2}
 .beauty-scroll[data-v-1c265f57]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
@@ -1212,6 +1220,16 @@ li.ant-select-tree-treenode-disabled>.ant-select-tree-node-content-wrapper,li.an
 #nprogress .spinner-icon[data-v-26333b92]{border-top-color:#13c2c2;border-left-color:#13c2c2}
 .new-page[data-v-26333b92]{background-color:#fff}
 .img[data-v-26333b92]:hover{-webkit-box-shadow:0 2px 12px rgba(0,0,0,.507);box-shadow:0 2px 12px rgba(0,0,0,.507)}
+.beauty-scroll[data-v-60f66520]{scrollbar-color:#13c2c2 #b5f5ec}
+.beauty-scroll[data-v-60f66520]::-webkit-scrollbar-thumb{background:#13c2c2}
+.beauty-scroll[data-v-60f66520]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
+.disabled[data-v-60f66520]{color:rgba(0,0,0,.25)}
+#nprogress .bar[data-v-60f66520]{background:#13c2c2}
+#nprogress .peg[data-v-60f66520]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
+#nprogress .spinner-icon[data-v-60f66520]{border-top-color:#13c2c2;border-left-color:#13c2c2}
+.new-page[data-v-60f66520]{background-color:#fff}
+.btn[data-v-60f66520]{color:#fff}
+.btn[data-v-60f66520]:hover{color:#fff}
 .beauty-scroll[data-v-2464446c]{scrollbar-color:#13c2c2 #b5f5ec}
 .beauty-scroll[data-v-2464446c]::-webkit-scrollbar-thumb{background:#13c2c2}
 .beauty-scroll[data-v-2464446c]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
@@ -1249,21 +1267,3 @@ li.ant-select-tree-treenode-disabled>.ant-select-tree-node-content-wrapper,li.an
 #nprogress .spinner-icon[data-v-54759e5c]{border-top-color:#13c2c2;border-left-color:#13c2c2}
 .new-page[data-v-54759e5c]{background-color:#fff}
 .chart[data-v-54759e5c]{background-color:#fff}
-.beauty-scroll[data-v-e2aa8bf2]{scrollbar-color:#13c2c2 #b5f5ec}
-.beauty-scroll[data-v-e2aa8bf2]::-webkit-scrollbar-thumb{background:#13c2c2}
-.beauty-scroll[data-v-e2aa8bf2]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
-.disabled[data-v-e2aa8bf2]{color:rgba(0,0,0,.25)}
-#nprogress .bar[data-v-e2aa8bf2]{background:#13c2c2}
-#nprogress .peg[data-v-e2aa8bf2]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
-#nprogress .spinner-icon[data-v-e2aa8bf2]{border-top-color:#13c2c2;border-left-color:#13c2c2}
-.new-page[data-v-e2aa8bf2]{background-color:#fff}
-.btn[data-v-e2aa8bf2]{color:#fff}
-.btn[data-v-e2aa8bf2]:hover{color:#fff}
-.beauty-scroll[data-v-1b02cfc3]{scrollbar-color:#13c2c2 #b5f5ec}
-.beauty-scroll[data-v-1b02cfc3]::-webkit-scrollbar-thumb{background:#13c2c2}
-.beauty-scroll[data-v-1b02cfc3]::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 1px rgba(0,0,0,0);background:#87e8de}
-.disabled[data-v-1b02cfc3]{color:rgba(0,0,0,.25)}
-#nprogress .bar[data-v-1b02cfc3]{background:#13c2c2}
-#nprogress .peg[data-v-1b02cfc3]{-webkit-box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2;box-shadow:0 0 10px #13c2c2,0 0 5px #13c2c2}
-#nprogress .spinner-icon[data-v-1b02cfc3]{border-top-color:#13c2c2;border-left-color:#13c2c2}
-.new-page[data-v-1b02cfc3]{background-color:#fff}
